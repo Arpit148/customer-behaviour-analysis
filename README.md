@@ -70,7 +70,7 @@ Exploratory Data Analysis
 Import into Microsoft SQL Server
       │
       ▼
-Business Analysis using SQL
+Business Analysis using MS SQL
       │
       ▼
 Power BI Dashboard
